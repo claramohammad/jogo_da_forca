@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+#word-container {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+#input-container {
+    margin-bottom: 20px;
+}
+
+#letter-input {
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+#submit-button {
+    padding: 5px 10px;
+}
+
+#guesses-container {
+    margin-bottom: 20px;
+}
+
+#attempts-container {
+    font-size: 18px;
+    color: #888;
+}
